@@ -1,5 +1,5 @@
 {
-	"name": "altified-worker",
+	"name": "quida-worker",
 	"main": "src/index.js",
 	"compatibility_date": "2025-01-01",
 	"vars": {
